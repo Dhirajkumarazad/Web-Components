@@ -10,7 +10,7 @@ linkSectionTemplate.innerHTML = `
     }   
 </style>
 <div class="link-wrapper">
- <h2>Hello</h2>
+ <h2><a href="url">google.com</a></h2>
 </div>
 `
 
