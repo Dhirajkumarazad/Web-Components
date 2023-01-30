@@ -6,7 +6,8 @@ linkSectionTemplate.innerHTML = `
         flex-direction: column;        
         height: 200px;
         border: 1px solid black;   
-        margin-top: 10px;       
+        margin-top: 10px;    
+        text-align: center;  
     }   
 </style>
 <div class="link-wrapper">
